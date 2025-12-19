@@ -20,9 +20,5 @@ The app includes multiple-choice questions, score tracking, and an engaging user
 2. Open the `index.html` file in any web browser
 3. Start playing the quiz
 
-## Screenshots
-Screenshots of the project are available in the screenshots folder.
 
-## Author
-Saumya Mishra
 
